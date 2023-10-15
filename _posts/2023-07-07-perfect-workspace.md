@@ -8,9 +8,9 @@ As you know there are so many distros, and this is not a good point at all.
 At this post I will try to explain the perfect workspace I get after try lots of combinations.
 
 ## Table of contents
-    - [What is the perfect workspace any way ?](#what-is-the-perfect-workspace-any-way)
-    - [Current approach](#current-approach)
-    - [Important apps](#important-apps)
+- [What is the perfect workspace any way ?](#what-is-the-perfect-workspace-any-way)
+- [Current approach](#current-approach)
+- [Important apps](#important-apps)
 
 ---
 
